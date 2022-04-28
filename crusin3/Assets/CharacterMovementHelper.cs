@@ -21,7 +21,7 @@ public class CharacterMovementHelper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        UpdateCharacterController()
+        UpdateCharacterController();
     }
 
     /// <summary>
